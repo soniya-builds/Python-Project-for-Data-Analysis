@@ -52,7 +52,7 @@ The notebook analyzes Diwali sales data using Python data analysis and visualiza
 
 ---
 
-## 📊 Analysis & Visualizations
+## Analysis & Visualizations
 
 The notebook includes visual analysis such as:
 
@@ -67,7 +67,7 @@ All visualizations are created using **Matplotlib** and **Seaborn**.
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - Married women aged **26–35 years** are the highest contributors to sales
 - Customers from **Uttar Pradesh, Maharashtra, and Karnataka** generate the most revenue
@@ -77,7 +77,7 @@ All visualizations are created using **Matplotlib** and **Seaborn**.
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. Clone the repository or download the files
 2. Place `Diwali Sales Data.csv` in the same directory as the notebook
