@@ -32,7 +32,7 @@ The notebook analyzes Diwali sales data using Python data analysis and visualiza
 
 ---
 
-## 🛠️ Tools & Libraries Used
+## Tools & Libraries Used
 
 - Python 3.x
 - NumPy
@@ -43,7 +43,7 @@ The notebook analyzes Diwali sales data using Python data analysis and visualiza
 
 ---
 
-## 🔄 Data Cleaning Steps
+## Data Cleaning Steps
 
 - Removed unnecessary columns (`Status`, `unnamed1`)
 - Handled missing values by dropping null entries
