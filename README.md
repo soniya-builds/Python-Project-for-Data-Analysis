@@ -15,7 +15,7 @@ The notebook analyzes Diwali sales data using Python data analysis and visualiza
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **File name:** `Diwali Sales Data.csv`
 - **Encoding:** UTF-8 (with encoding errors ignored)
