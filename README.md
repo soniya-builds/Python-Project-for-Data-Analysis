@@ -4,7 +4,7 @@ This project performs **Exploratory Data Analysis (EDA)** on a Diwali sales data
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The notebook analyzes Diwali sales data using Python data analysis and visualization libraries. Key objectives include:
 
